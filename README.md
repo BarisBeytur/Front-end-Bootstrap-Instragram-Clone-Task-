@@ -1,1 +1,2 @@
-# Front-end-Bootstrap-Instragram-Clone-Task-
+# instagrambootstrapclone
+Simple HTML Instagram clone made with Bootstrap.
